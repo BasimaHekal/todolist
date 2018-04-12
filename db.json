@@ -1,0 +1,7 @@
+{
+  "Notes": [
+    { "id": 1, "name": "Ultrsonic","is_read": "0" },
+    { "id": 2, "name": "Servo Motor","is_read": "0"},
+    { "id": 3, "name": "Keypad","is_read": "1" }
+  ]
+}
